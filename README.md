@@ -31,3 +31,4 @@ Add appropriate logging routines. Required logging include
 ## Stretch Goals
   * for each log, add a date and time stamp.
   * Make the endpoint /zoos/zoos pageable and sortable
+
